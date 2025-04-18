@@ -4,8 +4,6 @@ from . forms import *
 
 
 
-TOURNAMENT_SELECTION_SIZE = 3
-MUTATION_RATE = 0.05
 
 class Data:
     def __init__(self):
