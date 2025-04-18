@@ -3,8 +3,7 @@ from django.shortcuts import render, redirect
 from . forms import *
 
 
-POPULATION_SIZE = 9
-NUMB_OF_ELITE_SCHEDULES = 1
+
 TOURNAMENT_SELECTION_SIZE = 3
 MUTATION_RATE = 0.05
 
