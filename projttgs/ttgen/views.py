@@ -1,8 +1,6 @@
 from django.http import request
 from django.shortcuts import render, redirect
 from . forms import *
-from .models import *
-from django.core.mail import send_mail
 
 
 POPULATION_SIZE = 9
